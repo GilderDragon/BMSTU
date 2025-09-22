@@ -33,6 +33,5 @@ int main(void) {
 
     printf("%d\n", solve(arr, x0, n - 2, 0));
 
-    free(arr);
     return 0;
 }
