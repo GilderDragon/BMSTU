@@ -17,19 +17,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="saddlepoint">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/polynom.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/polynom.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/saddlepoint.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/saddlepoint.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Executable files/fibsys.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Executable files/intersect.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Executable files/maxk.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Executable files/mulmod.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Executable files/permut.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Executable files/polynom.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Executable files/primediv.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Executable files/revarray.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/fibsys.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/fibsys.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/intersect.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/intersect.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/maxk.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/maxk.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/mulmod.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/mulmod.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/permut.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/permut.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/polynom.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/polynom.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/primediv.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/primediv.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/revarray.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/revarray.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/saddlepoint.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/saddlepoint.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,6 +231,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.maxarray.c.executor": "Run",
     "C/C++ File.polynom.c.executor": "Run",
     "C/C++ File.saddlepoint.c.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -252,7 +251,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.saddlepoint.c">
+  <component name="RunManager" selected="C/C++ File.maxarray.c">
+    <configuration name="maxarray.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="maxarray.c" CONFIG_NAME="maxarray.c">
+      <option name="sourceFile" value="Algotitms and data structures\C\homework1\Code\maxarray.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="polynom.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="polynom.c" CONFIG_NAME="polynom.c">
       <option name="sourceFile" value="Algotitms and data structures\C\homework1\Code\polynom.c" />
       <method v="2">
@@ -266,11 +271,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.maxarray.c" />
       <item itemvalue="C/C++ File.saddlepoint.c" />
       <item itemvalue="C/C++ File.polynom.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.maxarray.c" />
         <item itemvalue="C/C++ File.saddlepoint.c" />
         <item itemvalue="C/C++ File.polynom.c" />
       </list>
@@ -284,8 +291,18 @@
       <option name="presentableId" value="Default" />
       <updated>1758441697033</updated>
       <workItem from="1758441698294" duration="19000" />
-      <workItem from="1758556606814" duration="2909000" />
+      <workItem from="1758556606814" duration="5242000" />
+      <workItem from="1758734411811" duration="4846000" />
     </task>
+    <task id="LOCAL-00001" summary="saddlepoint">
+      <option name="closed" value="true" />
+      <created>1758560137309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758560137309</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +310,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="saddlepoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="saddlepoint" />
   </component>
 </project>
