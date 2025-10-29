@@ -17,17 +17,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="saddlepoint">
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="to18">
+      <change afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/concat.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/fibstr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/frame.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/searchlist.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/strdiff.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/wcount.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/fibsys.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/fibsys.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/intersect.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/intersect.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/maxk.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/maxk.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/mulmod.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/mulmod.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/permut.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/permut.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/polynom.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/polynom.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/primediv.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/primediv.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/revarray.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/revarray.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/Code/saddlepoint.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/saddlepoint.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/GilderDragon/BMSTU.git&quot;,
-    &quot;accountId&quot;: &quot;51197b19-eb6d-43b7-9dd4-73ae72643c3f&quot;
+    &quot;accountId&quot;: &quot;3355f008-05db-44f0-891a-dd17737488f3&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -225,15 +223,23 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="3306ZJBp7s6TryvnKsyDTjwQHbN" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.concat.c.executor": "Run",
+    "C/C++ File.fibstr.c.executor": "Run",
+    "C/C++ File.frame.c.executor": "Run",
     "C/C++ File.maxarray.c.executor": "Run",
     "C/C++ File.polynom.c.executor": "Run",
     "C/C++ File.saddlepoint.c.executor": "Run",
+    "C/C++ File.strdiff.c.executor": "Run",
+    "C/C++ File.wcount.c.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -243,43 +249,62 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Aleksandr/CLionProjects/BMSTU",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.maxarray.c">
-    <configuration name="maxarray.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="maxarray.c" CONFIG_NAME="maxarray.c">
-      <option name="sourceFile" value="Algotitms and data structures\C\homework1\Code\maxarray.c" />
+  <component name="RunManager" selected="C/C++ File.frame.c">
+    <configuration name="concat.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="concat.c" CONFIG_NAME="concat.c">
+      <option name="sourceFile" value="Algotitms and data structures\C\homework1\code\concat.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="polynom.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="polynom.c" CONFIG_NAME="polynom.c">
-      <option name="sourceFile" value="Algotitms and data structures\C\homework1\Code\polynom.c" />
+    <configuration name="fibstr.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="fibstr.c" CONFIG_NAME="fibstr.c">
+      <option name="sourceFile" value="Algotitms and data structures\C\homework1\code\fibstr.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="saddlepoint.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="saddlepoint.c" CONFIG_NAME="saddlepoint.c">
-      <option name="sourceFile" value="Algotitms and data structures\C\homework1\Code\saddlepoint.c" />
+    <configuration name="frame.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="frame.c" CONFIG_NAME="frame.c">
+      <option name="sourceFile" value="Algotitms and data structures\C\homework1\code\frame.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="strdiff.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="strdiff.c" CONFIG_NAME="strdiff.c">
+      <option name="sourceFile" value="Algotitms and data structures\C\homework1\code\strdiff.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wcount.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="wcount.c" CONFIG_NAME="wcount.c">
+      <option name="sourceFile" value="Algotitms and data structures\C\homework1\code\wcount.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.maxarray.c" />
-      <item itemvalue="C/C++ File.saddlepoint.c" />
-      <item itemvalue="C/C++ File.polynom.c" />
+      <item itemvalue="C/C++ File.fibstr.c" />
+      <item itemvalue="C/C++ File.frame.c" />
+      <item itemvalue="C/C++ File.strdiff.c" />
+      <item itemvalue="C/C++ File.wcount.c" />
+      <item itemvalue="C/C++ File.concat.c" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.maxarray.c" />
-        <item itemvalue="C/C++ File.saddlepoint.c" />
-        <item itemvalue="C/C++ File.polynom.c" />
+        <item itemvalue="C/C++ File.frame.c" />
+        <item itemvalue="C/C++ File.strdiff.c" />
+        <item itemvalue="C/C++ File.fibstr.c" />
+        <item itemvalue="C/C++ File.wcount.c" />
+        <item itemvalue="C/C++ File.concat.c" />
       </list>
     </recent_temporary>
   </component>
@@ -293,6 +318,9 @@
       <workItem from="1758441698294" duration="19000" />
       <workItem from="1758556606814" duration="5242000" />
       <workItem from="1758734411811" duration="4846000" />
+      <workItem from="1761762432860" duration="2084000" />
+      <workItem from="1761766101798" duration="206000" />
+      <workItem from="1761766325569" duration="1071000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -311,6 +339,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit first commit" />
     <MESSAGE value="saddlepoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="saddlepoint" />
+    <MESSAGE value="to18" />
+    <option name="LAST_COMMIT_MESSAGE" value="to18" />
   </component>
 </project>
