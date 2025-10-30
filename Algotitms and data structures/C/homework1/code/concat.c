@@ -10,7 +10,7 @@ char *concat(char **s, int n) {
     }
 
     // Allocate memory for resulting string + null terminator
-    char *result = (char *)malloc(total_length + 1);
+    char *result = malloc(total_length + 1);
     if (result == NULL) {
         return NULL; // Memory allocation error
     }
