@@ -17,9 +17,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="to18">
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="concat">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/concat.c" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/concat.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,6 +216,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="3306ZJBp7s6TryvnKsyDTjwQHbN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectStatusUIService">{
   &quot;uiKindId&quot;: &quot;Widget&quot;
 }</component>
@@ -224,51 +226,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.concat.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.fibstr.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.frame.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.maxarray.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.polynom.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.saddlepoint.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.strdiff.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.wcount.c.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aleksandr/CLionProjects/BMSTU&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.concat.c.executor": "Run",
+    "C/C++ File.fibstr.c.executor": "Run",
+    "C/C++ File.frame.c.executor": "Run",
+    "C/C++ File.lab10.c.executor": "Run",
+    "C/C++ File.lab11.c.executor": "Run",
+    "C/C++ File.lab9.c.executor": "Run",
+    "C/C++ File.maxarray.c.executor": "Run",
+    "C/C++ File.polynom.c.executor": "Run",
+    "C/C++ File.saddlepoint.c.executor": "Run",
+    "C/C++ File.strdiff.c.executor": "Run",
+    "C/C++ File.wcount.c.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Aleksandr/CLionProjects/BMSTU",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.frame.c">
-    <configuration name="concat.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="concat.c" CONFIG_NAME="concat.c">
-      <option name="sourceFile" value="Algotitms and data structures\C\homework1\code\concat.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fibstr.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="fibstr.c" CONFIG_NAME="fibstr.c">
-      <option name="sourceFile" value="Algotitms and data structures\C\homework1\code\fibstr.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.lab11.c">
     <configuration name="frame.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="frame.c" CONFIG_NAME="frame.c">
       <option name="sourceFile" value="Algotitms and data structures\C\homework1\code\frame.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab10.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab10.c" CONFIG_NAME="lab10.c">
+      <option name="sourceFile" value="Algotitms and data structures\C\labs\lab10.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab11.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab11.c" CONFIG_NAME="lab11.c">
+      <option name="sourceFile" value="Algotitms and data structures\C\labs\lab11.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab9.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab9.c" CONFIG_NAME="lab9.c">
+      <option name="sourceFile" value="Algotitms and data structures\C\labs\lab9.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -279,26 +290,20 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wcount.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="wcount.c" CONFIG_NAME="wcount.c">
-      <option name="sourceFile" value="Algotitms and data structures\C\homework1\code\wcount.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="C/C++ File.fibstr.c" />
+      <item itemvalue="C/C++ File.lab10.c" />
+      <item itemvalue="C/C++ File.lab11.c" />
+      <item itemvalue="C/C++ File.lab9.c" />
       <item itemvalue="C/C++ File.frame.c" />
       <item itemvalue="C/C++ File.strdiff.c" />
-      <item itemvalue="C/C++ File.wcount.c" />
-      <item itemvalue="C/C++ File.concat.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.lab11.c" />
+        <item itemvalue="C/C++ File.lab10.c" />
+        <item itemvalue="C/C++ File.lab9.c" />
         <item itemvalue="C/C++ File.frame.c" />
         <item itemvalue="C/C++ File.strdiff.c" />
-        <item itemvalue="C/C++ File.fibstr.c" />
-        <item itemvalue="C/C++ File.wcount.c" />
-        <item itemvalue="C/C++ File.concat.c" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +320,8 @@
       <workItem from="1761762432860" duration="2084000" />
       <workItem from="1761766101798" duration="206000" />
       <workItem from="1761766325569" duration="1193000" />
-      <workItem from="1761817451975" duration="1688000" />
+      <workItem from="1761817451975" duration="2709000" />
+      <workItem from="1763218500700" duration="7890000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -333,7 +339,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761767434238</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="concat">
+      <option name="closed" value="true" />
+      <created>1761821949522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761821949522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,6 +357,11 @@
     <MESSAGE value="edit first commit" />
     <MESSAGE value="saddlepoint" />
     <MESSAGE value="to18" />
-    <option name="LAST_COMMIT_MESSAGE" value="to18" />
+    <MESSAGE value="concat" />
+    <option name="LAST_COMMIT_MESSAGE" value="concat" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
