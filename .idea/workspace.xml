@@ -18,7 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="first two tasks from homework2">
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="3, 4, 5 tasks from homework2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -658,11 +658,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.Queue.cpp.executor": "Run",
+    "C/C++ File.Stack.cpp.executor": "Run",
     "C/C++ File.bubblesort.cpp.executor": "Run",
     "C/C++ File.concat.c.executor": "Run",
     "C/C++ File.csort.cpp.executor": "Run",
     "C/C++ File.fibstr.c.executor": "Run",
     "C/C++ File.frame.c.executor": "Run",
+    "C/C++ File.hsort.cpp.executor": "Run",
     "C/C++ File.lab10.c.executor": "Run",
     "C/C++ File.lab11.c.executor": "Run",
     "C/C++ File.lab9.c.executor": "Run",
@@ -700,9 +703,15 @@
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Informatics" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.csort.cpp">
-    <configuration name="bubblesort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="bubblesort.cpp" CONFIG_NAME="bubblesort.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\bubblesort.cpp" />
+  <component name="RunManager" selected="C/C++ File.Queue.cpp">
+    <configuration name="Queue.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="Queue.cpp" CONFIG_NAME="Queue.cpp">
+      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Queue.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="Stack.cpp" CONFIG_NAME="Stack.cpp">
+      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Stack.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -713,8 +722,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="power2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="power2.cpp" CONFIG_NAME="power2.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\power2.cpp" />
+    <configuration name="hsort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="hsort.cpp" CONFIG_NAME="hsort.cpp">
+      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\hsort.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -725,26 +734,20 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="superstr.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="superstr.cpp" CONFIG_NAME="superstr.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\superstr.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="C/C++ File.bubblesort.cpp" />
+      <item itemvalue="C/C++ File.Queue.cpp" />
+      <item itemvalue="C/C++ File.Stack.cpp" />
+      <item itemvalue="C/C++ File.hsort.cpp" />
       <item itemvalue="C/C++ File.csort.cpp" />
       <item itemvalue="C/C++ File.shellsort.cpp" />
-      <item itemvalue="C/C++ File.power2.cpp" />
-      <item itemvalue="C/C++ File.superstr.cpp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Queue.cpp" />
+        <item itemvalue="C/C++ File.Stack.cpp" />
+        <item itemvalue="C/C++ File.hsort.cpp" />
         <item itemvalue="C/C++ File.csort.cpp" />
         <item itemvalue="C/C++ File.shellsort.cpp" />
-        <item itemvalue="C/C++ File.bubblesort.cpp" />
-        <item itemvalue="C/C++ File.power2.cpp" />
-        <item itemvalue="C/C++ File.superstr.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -764,7 +767,8 @@
       <workItem from="1761817451975" duration="2709000" />
       <workItem from="1763218500700" duration="7890000" />
       <workItem from="1763305546587" duration="14331000" />
-      <workItem from="1763569783008" duration="11679000" />
+      <workItem from="1763569783008" duration="12008000" />
+      <workItem from="1763632390590" duration="5017000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -806,7 +810,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763385357395</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3, 4, 5 tasks from homework2">
+      <option name="closed" value="true" />
+      <created>1763585598229</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763585598229</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -819,7 +831,8 @@
     <MESSAGE value="concat" />
     <MESSAGE value="some labs added" />
     <MESSAGE value="first two tasks from homework2" />
-    <option name="LAST_COMMIT_MESSAGE" value="first two tasks from homework2" />
+    <MESSAGE value="3, 4, 5 tasks from homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="3, 4, 5 tasks from homework2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
