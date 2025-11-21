@@ -13,13 +13,16 @@ void bubblesort(int n, T* arr) {
 
         flag *= -1;
 
-        if (flag >  0) {
+        start = (1 - flag) * (n - 2) / 2;
+        stop = (n + (n - 2) * flag) / 2;
+
+        /*if (flag >  0) {
             start = 0;
             stop = n - 1;
         } else {
             start = n - 2;
             stop = 1;
-        }
+        }*/
 
         swapped = true;
 
