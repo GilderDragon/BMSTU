@@ -3,8 +3,6 @@
 #include <iostream>
 #include <stdexcept>
 
-using namespace std;
-
 
 template<typename T>
 class Queue {
@@ -67,7 +65,7 @@ public:
     // Удаление и возврат элемента из начала очереди
     T dequeue() {
         if (isEmpty()) {
-            throw runtime_error("Cannot dequeue from empty queue");
+            throw std::runtime_error("Cannot dequeue from empty queue");
         }
 
         Node* nodeToDelete = frontNode;
@@ -86,7 +84,7 @@ public:
     // Просмотр первого элемента без удаления
     T& front() {
         if (isEmpty()) {
-            throw runtime_error("Cannot get front from empty queue");
+            throw std::runtime_error("Cannot get front from empty queue");
         }
         return frontNode->data;
     }
@@ -94,18 +92,18 @@ public:
     // просмотр последнего элемента очереди
     T& back() {
         if (isEmpty()) {
-            throw runtime_error("Cannot get back from empty queue");
+            throw std::runtime_error("Cannot get back from empty queue");
         }
         return backNode->data;
     }
 
     // Проверка на пустоту
-    bool isEmpty() const {
+    [[nodiscard]] bool isEmpty() const {
         return frontNode == nullptr;
     }
 
     // Получение размера стека
-    int size() const {
+    [[nodiscard]] int size() const {
         return queueSize;
     }
 

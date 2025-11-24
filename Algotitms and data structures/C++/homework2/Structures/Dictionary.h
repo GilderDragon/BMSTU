@@ -1,11 +1,10 @@
 #ifndef BMSTU_DICTIONARY_H
 #define BMSTU_DICTIONARY_H
 #include <iostream>
+#include <stdexcept>
 #include <vector>
 #include <list>
 #include <functional>
-
-using namespace std;
 
 
 template<typename K, typename V>
@@ -18,7 +17,7 @@ private:
         KeyValue(const K& k, const V& v) : key(k), value(v) {}
     };
 
-    vector<list<KeyValue>> buckets;
+    std::vector<std::list<KeyValue>> buckets;
     int itemCount;
     double loadFactorThreshold;
 
@@ -27,7 +26,7 @@ private:
     }
 
     void rehash() {
-        vector<list<KeyValue>> oldBuckets = buckets;
+        std::vector<std::list<KeyValue>> oldBuckets = buckets;
         buckets.clear();
         buckets.resize(oldBuckets.size() * 2);
         itemCount = 0;
@@ -40,7 +39,7 @@ private:
     }
 
 public:
-    Dict(int initialSize = 16, double loadFactor = 0.75)
+    explicit Dict(int initialSize = 16, double loadFactor = 0.75)
     : buckets(initialSize), itemCount(0), loadFactorThreshold(loadFactor) {}
 
     ~Dict() {
@@ -94,13 +93,13 @@ public:
                 return kv.value;
             }
         }
-        throw runtime_error("Key not found");
+        throw std::out_of_range("Key not found");
     }
 
     V& operator[](const K& key) {
         try {
             return get(key);
-        } catch (runtime_error&) {
+        } catch (std::out_of_range&) {
             insert(key, V());
             return get(key);
         }
@@ -130,11 +129,11 @@ public:
         return false;
     }
 
-    int size() const {
+    [[nodiscard]] int size() const {
         return itemCount;
     }
 
-    bool isEmpty() const {
+    [[nodiscard]] bool isEmpty() const {
         return itemCount == 0;
     }
 
@@ -145,8 +144,8 @@ public:
         itemCount = 0;
     }
 
-    vector<K> keys() const {
-        vector<K> result;
+    std::vector<K> keys() const {
+        std::vector<K> result;
         for (const auto& bucket : buckets) {
             for (const auto& kv : bucket) {
                 result.push_back(kv.key);
@@ -155,8 +154,8 @@ public:
         return result;
     }
 
-    vector<V> values() const {
-        vector<V> result;
+    std::vector<V> values() const {
+        std::vector<V> result;
         for (const auto& bucket : buckets) {
             for (const auto& kv : bucket) {
                 result.push_back(kv.value);

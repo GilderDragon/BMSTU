@@ -18,21 +18,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="bubblesort">
-      <change afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Stack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Stack.h" afterDir="false" />
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="dictionary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/BinaryTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinaryTree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/BinaryTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinaryTree.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/List.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/List.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/List.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/List.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Queue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Queue.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Queue.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Stack.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Stack.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Stack.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/hsort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinaryTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinaryTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Dictionary.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Dictionary.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/List.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/List.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Queue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Stack.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -638,17 +631,14 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Stack.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/bubblesort.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/csort.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/hsort.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/power2.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/shellsort.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/superstr.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/polynom.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C/homework1/code/saddlepoint.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab11.c" root0="FORCE_HIGHLIGHTING" />
@@ -671,9 +661,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.Dictionary.cpp.executor": "Run",
     "C/C++ File.List.cpp.executor": "Run",
     "C/C++ File.Queue.cpp (1).executor": "Run",
     "C/C++ File.Queue.cpp.executor": "Run",
+    "C/C++ File.Set.cpp.executor": "Run",
     "C/C++ File.Stack.cpp (1).executor": "Run",
     "C/C++ File.Stack.cpp.executor": "Run",
     "C/C++ File.bubblesort.cpp.executor": "Run",
@@ -684,6 +676,8 @@
     "C/C++ File.hsort.cpp.executor": "Run",
     "C/C++ File.lab10.c.executor": "Run",
     "C/C++ File.lab11.c.executor": "Run",
+    "C/C++ File.lab12.c.executor": "Run",
+    "C/C++ File.lab13.c.executor": "Run",
     "C/C++ File.lab9.c.executor": "Run",
     "C/C++ File.maxarray.c.executor": "Run",
     "C/C++ File.polynom.c.executor": "Run",
@@ -720,51 +714,51 @@
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Informatics" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.List.cpp">
+  <component name="RunManager" selected="C/C++ File.Dictionary.cpp">
+    <configuration name="Dictionary.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="Dictionary.cpp" CONFIG_NAME="Dictionary.cpp">
+      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\Dictionary.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="List.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="List.cpp" CONFIG_NAME="List.cpp">
       <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\List.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="Queue.cpp" CONFIG_NAME="Queue.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\Queue.cpp" />
+    <configuration name="Set.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="Set.cpp" CONFIG_NAME="Set.cpp">
+      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\Set.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="Stack.cpp" CONFIG_NAME="Stack.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\Stack.cpp" />
+    <configuration name="lab12.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab12.c" CONFIG_NAME="lab12.c">
+      <option name="sourceFile" value="Informatics\C\labs\lab12.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="Stack.cpp" CONFIG_NAME="Stack.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Stack.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bubblesort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="bubblesort.cpp" CONFIG_NAME="bubblesort.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\bubblesort.cpp" />
+    <configuration name="lab13.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab13.c" CONFIG_NAME="lab13.c">
+      <option name="sourceFile" value="Informatics\C\labs\lab13.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.Dictionary.cpp" />
       <item itemvalue="C/C++ File.List.cpp" />
-      <item itemvalue="C/C++ File.Queue.cpp (1)" />
-      <item itemvalue="C/C++ File.Stack.cpp (1)" />
-      <item itemvalue="C/C++ File.bubblesort.cpp" />
-      <item itemvalue="C/C++ File.Stack.cpp" />
+      <item itemvalue="C/C++ File.Set.cpp" />
+      <item itemvalue="C/C++ File.lab12.c" />
+      <item itemvalue="C/C++ File.lab13.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Dictionary.cpp" />
+        <item itemvalue="C/C++ File.Set.cpp" />
+        <item itemvalue="C/C++ File.lab12.c" />
+        <item itemvalue="C/C++ File.lab13.c" />
         <item itemvalue="C/C++ File.List.cpp" />
-        <item itemvalue="C/C++ File.Queue.cpp (1)" />
-        <item itemvalue="C/C++ File.Stack.cpp (1)" />
-        <item itemvalue="C/C++ File.Stack.cpp" />
-        <item itemvalue="C/C++ File.bubblesort.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -787,7 +781,7 @@
       <workItem from="1763569783008" duration="12008000" />
       <workItem from="1763632390590" duration="6176000" />
       <workItem from="1763742729803" duration="595000" />
-      <workItem from="1763897280784" duration="8745000" />
+      <workItem from="1763897280784" duration="38136000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -853,7 +847,31 @@
       <option name="project" value="LOCAL" />
       <updated>1763743301325</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="stack, queue, list">
+      <option name="closed" value="true" />
+      <created>1763906149750</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763906149750</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lab12">
+      <option name="closed" value="true" />
+      <created>1763977760983</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763977760983</updated>
+    </task>
+    <task id="LOCAL-00011" summary="dictionary">
+      <option name="closed" value="true" />
+      <created>1763981477532</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763981477532</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -869,7 +887,10 @@
     <MESSAGE value="3, 4, 5 tasks from homework2" />
     <MESSAGE value="stack, queue, tasks from homework2" />
     <MESSAGE value="bubblesort" />
-    <option name="LAST_COMMIT_MESSAGE" value="bubblesort" />
+    <MESSAGE value="stack, queue, list" />
+    <MESSAGE value="lab12" />
+    <MESSAGE value="dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="dictionary" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

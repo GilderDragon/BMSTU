@@ -3,8 +3,6 @@
 #include <iostream>
 #include <stdexcept>
 
-using namespace std;
-
 
 template<typename T>
 class List {
@@ -13,7 +11,7 @@ private:
         T data;
         Node* next;
 
-        Node(const T& value) : data(value), next(nullptr) {}
+        explicit Node(const T& value) : data(value), next(nullptr) {}
     };
 
     Node* firstNode; // первый элемент списка
@@ -65,7 +63,7 @@ public:
     // Удаление элемента по индексу
     T pop(int index = -1) {
         if (isEmpty()) {
-            throw runtime_error("Cannot pop from empty list");
+            throw std::runtime_error("Cannot pop from empty list");
         }
 
         if (index < 0) {
@@ -73,7 +71,7 @@ public:
         }
 
         if (index < 0 || index >= listSize) {
-            throw runtime_error("List index out of range");
+            throw std::out_of_range("List index out of range");
         }
 
         if (index == 0) {
@@ -111,7 +109,7 @@ public:
             index = listSize + index;
         }
         if (index < 0 || index > listSize) {
-            throw runtime_error("List index out of range");
+            throw std::out_of_range("List index out of range");
         }
 
         Node* current = firstNode;
@@ -121,17 +119,17 @@ public:
         return current->data;
     }
 
-    T& operator[](int index) {
+    T& operator[](const int index) {
         return get(index);
     }
 
     // Проверка на пустоту
-    bool isEmpty() {
+    [[nodiscard]] bool isEmpty() {
         return firstNode == nullptr;
     }
 
     // Получение размера
-    int size() {
+    [[nodiscard]] int size() const {
         return listSize;
     }
 

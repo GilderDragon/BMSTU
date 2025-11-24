@@ -3,8 +3,6 @@
 #include <iostream>
 #include <stdexcept>
 
-using namespace std;
-
 
 template<typename T>
 class Stack {
@@ -78,7 +76,7 @@ public:
     // Удаление и возврат верхнего элемента
     T pop() {
         if (isEmpty()) {
-            throw runtime_error("Cannot pop from empty stack");
+            throw std::runtime_error("Cannot pop from empty stack");
         }
 
         Node* nodeToDelete = topNode;
@@ -93,18 +91,18 @@ public:
     // Просмотр верхнего элемента без удаления
     T& front() {
         if (isEmpty()) {
-            throw runtime_error("Cannot get top from empty stack");
+            throw std::runtime_error("Cannot get top from empty stack");
         }
         return topNode->data;
     }
 
     // Проверка на пустоту
-    bool isEmpty() const {
+    [[nodiscard]] bool isEmpty() const {
         return topNode == nullptr;
     }
 
     // Получение размера стека
-    int size() const {
+    [[nodiscard]] int size() const {
         return stackSize;
     }
 
