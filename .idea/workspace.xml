@@ -18,11 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="set + removed &quot;using namespace std&quot; in all structures">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.h" afterDir="false" />
-    </list>
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="BinarySearchTree" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -778,7 +774,7 @@
       <workItem from="1763569783008" duration="12008000" />
       <workItem from="1763632390590" duration="6176000" />
       <workItem from="1763742729803" duration="595000" />
-      <workItem from="1763897280784" duration="45523000" />
+      <workItem from="1763897280784" duration="45861000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -876,7 +872,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763994721142</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="BinarySearchTree">
+      <option name="closed" value="true" />
+      <created>1764093366195</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764093366195</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -896,7 +900,8 @@
     <MESSAGE value="lab12" />
     <MESSAGE value="dictionary" />
     <MESSAGE value="set + removed &quot;using namespace std&quot; in all structures" />
-    <option name="LAST_COMMIT_MESSAGE" value="set + removed &quot;using namespace std&quot; in all structures" />
+    <MESSAGE value="BinarySearchTree" />
+    <option name="LAST_COMMIT_MESSAGE" value="BinarySearchTree" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
