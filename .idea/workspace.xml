@@ -18,8 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="mb">
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="Expression evaluation via Reverse Polish notation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/ExpressionEvaluation.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/ExpressionEvaluation.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -927,7 +928,7 @@
       <workItem from="1763569783008" duration="12008000" />
       <workItem from="1763632390590" duration="6176000" />
       <workItem from="1763742729803" duration="595000" />
-      <workItem from="1763897280784" duration="56915000" />
+      <workItem from="1763897280784" duration="57929000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -1049,7 +1050,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764093666532</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Expression evaluation via Reverse Polish notation">
+      <option name="closed" value="true" />
+      <created>1764174941401</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764174941402</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1071,7 +1080,8 @@
     <MESSAGE value="set + removed &quot;using namespace std&quot; in all structures" />
     <MESSAGE value="BinarySearchTree" />
     <MESSAGE value="mb" />
-    <option name="LAST_COMMIT_MESSAGE" value="mb" />
+    <MESSAGE value="Expression evaluation via Reverse Polish notation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Expression evaluation via Reverse Polish notation" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

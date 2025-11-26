@@ -62,6 +62,10 @@ private:
             ops.pop();
         }
 
+        if (result.back() == ' ') {
+            result.pop_back();
+        }
+
         return result;
     }
 public:
@@ -69,16 +73,16 @@ public:
         RPNExpression = convertToRPN(expression);
     }
 
-    std::string& original() {
+    const std::string& original() {
         return originalExpression;
     }
 
-    std::string& rpn() {
+    const std::string& rpn() {
         return RPNExpression;
     }
 
     [[nodiscard]] double evaluate() const {
-        std::stack<std::string> st;
+        std::stack<double> st;
         std::string temp;
 
         for (int i = 0; i < RPNExpression.size(); i++) {
@@ -87,14 +91,14 @@ public:
                 if (i + 1 < RPNExpression.size() && isDigit(RPNExpression[i + 1])) {
                     temp += std::string(1, c);
                 } else {
-                    st.push(temp + std::string(1, c));
+                    st.push(std::stod(temp + std::string(1, c)));
                     temp.clear();
                 }
             } else if (isOperator(c)) {
                 double number;
-                double number2 = std::stod(st.top());
+                double number2 = st.top();
                 st.pop();
-                double number1 = std::stod(st.top());
+                double number1 = st.top();
                 st.pop();
                 switch (c){
                     case '+':
@@ -115,10 +119,10 @@ public:
                     default:
                         throw std::runtime_error("Stupid programmer");
                 }
-                st.push(std::to_string(round(number * 10) / 10));
+                st.push(number);
             }
         }
-        return std::stod(st.top());
+        return st.top();
     }
 };
 
