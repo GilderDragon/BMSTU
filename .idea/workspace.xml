@@ -18,9 +18,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="Expression evaluation via Reverse Polish notation">
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="Expression evaluation via Reverse Polish notation(second chance)">
+      <change afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/ExpressionEvaluation.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/ExpressionEvaluation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Dictionary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Dictionary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Dictionary.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Dictionary.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/ExpressionEvaluation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/ExpressionEvaluation.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/List.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/List.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/List.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/List.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Queue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Queue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Set.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Set.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Set.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Set.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -778,14 +792,26 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Stack.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/bubblesort.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/csort.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/hsort.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/power2.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/shellsort.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/superstr.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Dictionary.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Dictionary.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/List.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/List.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Queue.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Queue.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Set.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Set.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab11.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab9.c" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -856,12 +882,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Algotitms and data structures\C++\homework3" />
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Algotitms and data structures\C++\homework2\Structures" />
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Informatics\C" />
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Informatics" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.ExpressionEvaluation.cpp">
+  <component name="RunManager" selected="C/C++ File.lab13.c">
     <configuration name="BinarySearchTree.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="BinarySearchTree.cpp" CONFIG_NAME="BinarySearchTree.cpp">
       <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\BinarySearchTree.cpp" />
       <method v="2">
@@ -886,8 +913,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab12.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab12.c" CONFIG_NAME="lab12.c">
-      <option name="sourceFile" value="Informatics\C\labs\lab12.c" />
+    <configuration name="lab13.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab13.c" CONFIG_NAME="lab13.c">
+      <option name="sourceFile" value="Informatics\C\labs\lab13.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -897,15 +924,15 @@
       <item itemvalue="C/C++ File.Dictionary.cpp" />
       <item itemvalue="C/C++ File.ExpressionEvaluation.cpp" />
       <item itemvalue="C/C++ File.Set.cpp" />
-      <item itemvalue="C/C++ File.lab12.c" />
+      <item itemvalue="C/C++ File.lab13.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.lab13.c" />
         <item itemvalue="C/C++ File.ExpressionEvaluation.cpp" />
+        <item itemvalue="C/C++ File.Set.cpp" />
         <item itemvalue="C/C++ File.BinarySearchTree.cpp" />
         <item itemvalue="C/C++ File.Dictionary.cpp" />
-        <item itemvalue="C/C++ File.Set.cpp" />
-        <item itemvalue="C/C++ File.lab12.c" />
       </list>
     </recent_temporary>
   </component>
@@ -928,7 +955,7 @@
       <workItem from="1763569783008" duration="12008000" />
       <workItem from="1763632390590" duration="6176000" />
       <workItem from="1763742729803" duration="595000" />
-      <workItem from="1763897280784" duration="57929000" />
+      <workItem from="1763897280784" duration="69376000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -1058,7 +1085,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764174941402</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Expression evaluation via Reverse Polish notation(second chance)">
+      <option name="closed" value="true" />
+      <created>1764175869668</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1764175869668</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1081,7 +1116,8 @@
     <MESSAGE value="BinarySearchTree" />
     <MESSAGE value="mb" />
     <MESSAGE value="Expression evaluation via Reverse Polish notation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Expression evaluation via Reverse Polish notation" />
+    <MESSAGE value="Expression evaluation via Reverse Polish notation(second chance)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Expression evaluation via Reverse Polish notation(second chance)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
