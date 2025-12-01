@@ -3,6 +3,7 @@
 
 
 struct Pair {
+    int count;
     int m;
     int n;
 };
@@ -58,6 +59,7 @@ struct Pair find_max_num_min_digit(int** arr, int m, int n) {
             temp = count_min_digit(arr[i][j]);
             if (temp > max_count) {
                 max_count = temp;
+                index.count = max_count;
                 index.m = i;
                 index.n = j;
             }
@@ -84,7 +86,12 @@ int main() {
 
     struct Pair answer = find_max_num_min_digit(arr, m, n);
 
-    printf("Answer: %d %d", answer.m, answer.n);
+    if (answer.count == 1) {
+        printf("No repeating numbers");
+    } else {
+        printf("Answer: %d %d", answer.m, answer.n);
+    }
+
 
     for (int i = 0; i < m; i++) {
         free(arr[i]);

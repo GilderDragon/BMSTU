@@ -18,23 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="Expression evaluation via Reverse Polish notation(second chance)">
-      <change afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.cpp" afterDir="false" />
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="refactor and lab13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/BinarySearchTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Dictionary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Dictionary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Dictionary.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Dictionary.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/ExpressionEvaluation.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/ExpressionEvaluation.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/List.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/List.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/List.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/List.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Queue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Queue.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Set.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Set.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Set.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Set.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/Structures/Stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab13.c" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/C/labs/lab13.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -813,6 +799,8 @@
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab11.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab12.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab14.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab9.c" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -851,6 +839,8 @@
     "C/C++ File.lab11.c.executor": "Run",
     "C/C++ File.lab12.c.executor": "Run",
     "C/C++ File.lab13.c.executor": "Run",
+    "C/C++ File.lab14.c.executor": "Run",
+    "C/C++ File.lab15.c.executor": "Run",
     "C/C++ File.lab9.c.executor": "Run",
     "C/C++ File.maxarray.c.executor": "Run",
     "C/C++ File.polynom.c.executor": "Run",
@@ -888,27 +878,15 @@
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Informatics" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.lab13.c">
-    <configuration name="BinarySearchTree.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="BinarySearchTree.cpp" CONFIG_NAME="BinarySearchTree.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\BinarySearchTree.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dictionary.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="Dictionary.cpp" CONFIG_NAME="Dictionary.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\Dictionary.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.lab15.c">
     <configuration name="ExpressionEvaluation.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="ExpressionEvaluation.cpp" CONFIG_NAME="ExpressionEvaluation.cpp">
       <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\ExpressionEvaluation.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="Set.cpp" CONFIG_NAME="Set.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\Set.cpp" />
+    <configuration name="lab11.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab11.c" CONFIG_NAME="lab11.c">
+      <option name="sourceFile" value="Informatics\C\labs\lab11.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -919,20 +897,32 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lab14.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab14.c" CONFIG_NAME="lab14.c">
+      <option name="sourceFile" value="Informatics\C\labs\lab14.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab15.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab15.c" CONFIG_NAME="lab15.c">
+      <option name="sourceFile" value="Informatics\C\labs\lab15.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="C/C++ File.BinarySearchTree.cpp" />
-      <item itemvalue="C/C++ File.Dictionary.cpp" />
       <item itemvalue="C/C++ File.ExpressionEvaluation.cpp" />
-      <item itemvalue="C/C++ File.Set.cpp" />
+      <item itemvalue="C/C++ File.lab11.c" />
       <item itemvalue="C/C++ File.lab13.c" />
+      <item itemvalue="C/C++ File.lab14.c" />
+      <item itemvalue="C/C++ File.lab15.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.lab15.c" />
+        <item itemvalue="C/C++ File.lab14.c" />
+        <item itemvalue="C/C++ File.lab11.c" />
         <item itemvalue="C/C++ File.lab13.c" />
         <item itemvalue="C/C++ File.ExpressionEvaluation.cpp" />
-        <item itemvalue="C/C++ File.Set.cpp" />
-        <item itemvalue="C/C++ File.BinarySearchTree.cpp" />
-        <item itemvalue="C/C++ File.Dictionary.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -955,7 +945,7 @@
       <workItem from="1763569783008" duration="12008000" />
       <workItem from="1763632390590" duration="6176000" />
       <workItem from="1763742729803" duration="595000" />
-      <workItem from="1763897280784" duration="69376000" />
+      <workItem from="1763897280784" duration="86261000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -1093,7 +1083,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764175869668</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="refactor and lab13">
+      <option name="closed" value="true" />
+      <created>1764454537514</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1764454537514</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1117,7 +1115,8 @@
     <MESSAGE value="mb" />
     <MESSAGE value="Expression evaluation via Reverse Polish notation" />
     <MESSAGE value="Expression evaluation via Reverse Polish notation(second chance)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Expression evaluation via Reverse Polish notation(second chance)" />
+    <MESSAGE value="refactor and lab13" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor and lab13" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
