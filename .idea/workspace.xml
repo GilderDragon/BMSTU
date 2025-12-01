@@ -18,8 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="refactor and lab13">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="lab13 small update + lab14 and lab15">
       <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab13.c" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/C/labs/lab13.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -945,7 +944,7 @@
       <workItem from="1763569783008" duration="12008000" />
       <workItem from="1763632390590" duration="6176000" />
       <workItem from="1763742729803" duration="595000" />
-      <workItem from="1763897280784" duration="86261000" />
+      <workItem from="1763897280784" duration="86691000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -1091,7 +1090,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764454537514</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="lab13 small update + lab14 and lab15">
+      <option name="closed" value="true" />
+      <created>1764591485405</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1764591485405</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1116,7 +1123,8 @@
     <MESSAGE value="Expression evaluation via Reverse Polish notation" />
     <MESSAGE value="Expression evaluation via Reverse Polish notation(second chance)" />
     <MESSAGE value="refactor and lab13" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor and lab13" />
+    <MESSAGE value="lab13 small update + lab14 and lab15" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab13 small update + lab14 and lab15" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

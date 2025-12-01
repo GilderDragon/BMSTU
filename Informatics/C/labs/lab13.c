@@ -92,7 +92,6 @@ int main() {
         printf("Answer: %d %d", answer.m, answer.n);
     }
 
-
     for (int i = 0; i < m; i++) {
         free(arr[i]);
     }
