@@ -18,10 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="lab13 small update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab15.c" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/C/labs/lab15.c" afterDir="false" />
-    </list>
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="lab16 small update + lab 16" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -946,7 +943,7 @@
       <workItem from="1763569783008" duration="12008000" />
       <workItem from="1763632390590" duration="6176000" />
       <workItem from="1763742729803" duration="595000" />
-      <workItem from="1763897280784" duration="88539000" />
+      <workItem from="1763897280784" duration="88860000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -1116,7 +1113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764592039706</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="lab15 small update + lab 16">
+      <option name="closed" value="true" />
+      <created>1764593856353</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1764593856353</updated>
+    </task>
+    <task id="LOCAL-00023" summary="lab16 small update + lab 16">
+      <option name="closed" value="true" />
+      <created>1764593935964</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1764593935964</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1143,7 +1156,9 @@
     <MESSAGE value="refactor and lab13" />
     <MESSAGE value="lab13 small update + lab14 and lab15" />
     <MESSAGE value="lab13 small update" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab13 small update" />
+    <MESSAGE value="lab15 small update + lab 16" />
+    <MESSAGE value="lab16 small update + lab 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab16 small update + lab 16" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
