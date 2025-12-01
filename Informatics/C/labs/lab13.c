@@ -52,7 +52,7 @@ int count_min_digit(int number) {
 
 
 struct Pair find_max_num_min_digit(int** arr, int m, int n) {
-    struct Pair index;
+    struct Pair index = {};
     int max_count = 0, temp;
     for (int i = 0; i < m; i++) {
         for (int j = 0; j < n; j++) {
@@ -86,11 +86,8 @@ int main() {
 
     struct Pair answer = find_max_num_min_digit(arr, m, n);
 
-    if (answer.count == 1) {
-        printf("No repeating numbers");
-    } else {
-        printf("Answer: %d %d", answer.m, answer.n);
-    }
+    if (answer.count == 1) printf("No repeating numbers");
+    else printf("Answer: %d %d", answer.m, answer.n);
 
     for (int i = 0; i < m; i++) {
         free(arr[i]);
