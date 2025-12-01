@@ -18,8 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="lab13 small update + lab14 and lab15">
-      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab13.c" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/C/labs/lab13.c" afterDir="false" />
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="lab13 small update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab15.c" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/C/labs/lab15.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -840,6 +841,7 @@
     "C/C++ File.lab13.c.executor": "Run",
     "C/C++ File.lab14.c.executor": "Run",
     "C/C++ File.lab15.c.executor": "Run",
+    "C/C++ File.lab16.c.executor": "Run",
     "C/C++ File.lab9.c.executor": "Run",
     "C/C++ File.maxarray.c.executor": "Run",
     "C/C++ File.polynom.c.executor": "Run",
@@ -877,13 +879,7 @@
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Informatics" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.lab15.c">
-    <configuration name="ExpressionEvaluation.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="ExpressionEvaluation.cpp" CONFIG_NAME="ExpressionEvaluation.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\homework2\Structures\ExpressionEvaluation.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.lab16.c">
     <configuration name="lab11.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab11.c" CONFIG_NAME="lab11.c">
       <option name="sourceFile" value="Informatics\C\labs\lab11.c" />
       <method v="2">
@@ -908,20 +904,26 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lab16.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="lab16.c" CONFIG_NAME="lab16.c">
+      <option name="sourceFile" value="Informatics\C\labs\lab16.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="C/C++ File.ExpressionEvaluation.cpp" />
       <item itemvalue="C/C++ File.lab11.c" />
       <item itemvalue="C/C++ File.lab13.c" />
       <item itemvalue="C/C++ File.lab14.c" />
       <item itemvalue="C/C++ File.lab15.c" />
+      <item itemvalue="C/C++ File.lab16.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.lab16.c" />
         <item itemvalue="C/C++ File.lab15.c" />
+        <item itemvalue="C/C++ File.lab13.c" />
         <item itemvalue="C/C++ File.lab14.c" />
         <item itemvalue="C/C++ File.lab11.c" />
-        <item itemvalue="C/C++ File.lab13.c" />
-        <item itemvalue="C/C++ File.ExpressionEvaluation.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -944,7 +946,7 @@
       <workItem from="1763569783008" duration="12008000" />
       <workItem from="1763632390590" duration="6176000" />
       <workItem from="1763742729803" duration="595000" />
-      <workItem from="1763897280784" duration="86691000" />
+      <workItem from="1763897280784" duration="88539000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -1098,7 +1100,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764591485405</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="lab13 small update">
+      <option name="closed" value="true" />
+      <created>1764591789542</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1764591789542</updated>
+    </task>
+    <task id="LOCAL-00021" summary="lab13 small update">
+      <option name="closed" value="true" />
+      <created>1764592039706</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1764592039706</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1124,7 +1142,8 @@
     <MESSAGE value="Expression evaluation via Reverse Polish notation(second chance)" />
     <MESSAGE value="refactor and lab13" />
     <MESSAGE value="lab13 small update + lab14 and lab15" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab13 small update + lab14 and lab15" />
+    <MESSAGE value="lab13 small update" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab13 small update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

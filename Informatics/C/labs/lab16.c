@@ -1,3 +1,4 @@
+#include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -48,26 +49,20 @@ void print_array_select(double* arr, const int n) {
 }
 
 
-int min(double* arr, const int n) {
-    int min = 0;
-    for (int i = 1; i < n; i++) {
-        if (arr[i] < arr[min]){
-            min = i;
-        }
-    }
-    return min;
-}
-
-
-void selection_sort(double* arr, const int n) {
+void bubble_sort(double* arr, const int n) {
     double temp;
+    bool flag;
     for (int i = 0; i < n; i++) {
-        int mini = min(&arr[i], n - i) + i;
-        if (i != mini) {
-            temp = arr[i];
-            arr[i] = arr[mini];
-            arr[mini] = temp;
+        flag = false;
+        for (int j = n - 2; j > -1; j--) {
+            if (arr[j] > arr[j + 1]) {
+                flag = true;
+                temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+            }
         }
+        if (!flag) break;
     }
 }
 
@@ -93,15 +88,15 @@ int main() {
 
     create_array(arr1, n);
 
-    print_array_select(arr1, n);
-
     for (int i = 0; i < n; i++) {
         arr2[i] = arr1[i];
     }
 
-    printf("Selection sort: ");
+    print_array_select(arr1, n);
+
+    printf("Bubble sort: ");
     clock_t start = clock();
-    selection_sort(arr1, n);
+    bubble_sort(arr1, n);
     printf("%lf\n", (double)(clock() - start) / CLOCKS_PER_SEC);
 
     printf("qsort: ");
@@ -116,3 +111,4 @@ int main() {
 
     return 0;
 }
+
