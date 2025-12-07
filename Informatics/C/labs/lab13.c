@@ -31,6 +31,9 @@ void print_matrix(int** arr, int m, int n) {
 
 
 int count_min_digit(int number) {
+    if (number < 0) {
+        number *= -1;
+    }
     int digit, min_digit = number % 10, count = 1, max_count = 1;
     number /= 10;
     while (number > 0) {
