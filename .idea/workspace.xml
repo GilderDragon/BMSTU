@@ -18,9 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="">
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="lab13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab13.c" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/C/labs/lab13.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab14.c" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/C/labs/lab14.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +237,7 @@
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Informatics" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.lab13.c">
+  <component name="RunManager" selected="C/C++ File.lab14.c">
     <configuration name="forAll.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="forAll.cpp" CONFIG_NAME="forAll.cpp">
       <option name="sourceFile" value="Algotitms and data structures\C++\forAll.cpp" />
       <method v="2">
@@ -277,11 +277,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.lab14.c" />
         <item itemvalue="C/C++ File.lab13.c" />
         <item itemvalue="C/C++ File.forAll.cpp" />
         <item itemvalue="C/C++ File.lab16.c" />
         <item itemvalue="C/C++ File.lab15.c" />
-        <item itemvalue="C/C++ File.lab14.c" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +307,7 @@
       <workItem from="1763897280784" duration="88971000" />
       <workItem from="1764686124502" duration="553000" />
       <workItem from="1764758186459" duration="9537000" />
-      <workItem from="1764842120949" duration="4003000" />
+      <workItem from="1764842120949" duration="5727000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -517,14 +517,21 @@
       <option name="project" value="LOCAL" />
       <updated>1764776025947</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="lab13">
+      <option name="closed" value="true" />
+      <created>1765140361031</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1765140361031</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="edit first commit" />
     <MESSAGE value="saddlepoint" />
     <MESSAGE value="to18" />
     <MESSAGE value="concat" />
@@ -549,7 +556,8 @@
     <MESSAGE value="lab16 small update" />
     <MESSAGE value="homework 2 update" />
     <MESSAGE value="some structures" />
-    <option name="LAST_COMMIT_MESSAGE" value="some structures" />
+    <MESSAGE value="lab13" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab13" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
