@@ -35,7 +35,7 @@ void print_array(double* arr, const int n) {
     for (int i = 0; i < n; i++) {
         printf("%lf ", arr[i]);
     }
-    printf("\n");
+    printf("\n\n");
 }
 
 
@@ -60,9 +60,10 @@ int min(double* arr, const int n) {
 
 
 void selection_sort(double* arr, const int n) {
+    int mini;
     double temp;
     for (int i = 0; i < n; i++) {
-        int mini = min(&arr[i], n - i) + i;
+        mini = min(&arr[i], n - i) + i;
         if (i != mini) {
             temp = arr[i];
             arr[i] = arr[mini];
@@ -104,12 +105,14 @@ int main() {
     selection_sort(arr1, n);
     printf("%lf\n", (double)(clock() - start) / CLOCKS_PER_SEC);
 
+    print_array_select(arr1, n);
+
     printf("qsort: ");
     start = clock();
     qsort(arr2, n, sizeof(double), compare);
     printf("%lf\n", (double)(clock() - start) / CLOCKS_PER_SEC);
 
-    print_array_select(arr1, n);
+    print_array_select(arr2, n);
 
     free(arr1);
     free(arr2);

@@ -36,7 +36,7 @@ void print_array(double* arr, const int n) {
     for (int i = 0; i < n; i++) {
         printf("%lf ", arr[i]);
     }
-    printf("\n");
+    printf("\n\n");
 }
 
 
@@ -99,12 +99,14 @@ int main() {
     bubble_sort(arr1, n);
     printf("%lf\n", (double)(clock() - start) / CLOCKS_PER_SEC);
 
+    print_array_select(arr1, n);
+
     printf("qsort: ");
     start = clock();
     qsort(arr2, n, sizeof(double), compare);
     printf("%lf\n", (double)(clock() - start) / CLOCKS_PER_SEC);
 
-    print_array_select(arr1, n);
+    print_array_select(arr2, n);
 
     free(arr1);
     free(arr2);
