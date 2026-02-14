@@ -18,11 +18,76 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="lab13">
+    <list default="true" id="eb672b7c-f285-4f56-adb7-416ef7f9f0bd" name="Changes" comment="lab15 and lab16 small remake">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab15.c" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/C/labs/lab15.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab16.c" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/C/labs/lab16.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/bmall.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/bmall.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/bubblesort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/bubblesort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/csort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/csort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/datesort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/datesort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/dsort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/dsort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/extstop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/extstop.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/hsort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/hsort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/kmpall.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/kmpall.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/maxprod.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/maxprod.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/mergesort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/mergesort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/power2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/power2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/prefixes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/prefixes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/pword.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/pword.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/quicksort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/quicksort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/rangegcd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/rangegcd.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/rangehd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/rangehd.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/rangemax.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/rangemax.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/rangepeak.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/rangepeak.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/redixsort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/redixsort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/shellsort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/shellsort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework2/superstr.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/superstr.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinaryTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/BinaryTree.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinaryTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/BinaryTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Dictionary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Dictionary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Dictionary.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Dictionary.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Graph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Graph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/HammingCode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/HammingCode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/HammingCode.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/HammingCode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/LinearList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/LinearList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/LinearList.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/LinearList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/List.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/List.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/List.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/List.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Queue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Queue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Set.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Set.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Set.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Set.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Stack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Stack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/concat.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/concat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/fibstr.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/fibstr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/fibsys.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/fibsys.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/frame.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/frame.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/intersect.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/intersect.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/maxarray.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/maxarray.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/maxk.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/maxk.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/mulmod.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/mulmod.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/permut.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/permut.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/polynom.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/polynom.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/primediv.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/primediv.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/revarray.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/revarray.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/saddlepoint.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/saddlepoint.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/searchlist.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/searchlist.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/strdiff.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/strdiff.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algotitms and data structures/C/homework1/wcount.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Algotitms and data structures/C/homework1/wcount.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab10.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Informatics/C/labs/lab10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab11.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Informatics/C/labs/lab11.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab12.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Informatics/C/labs/lab12.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab13.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Informatics/C/labs/lab13.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab14.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Informatics/C/labs/lab14.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab15.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Informatics/C/labs/lab15.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab16.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Informatics/C/labs/lab16.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatics/C/labs/lab9.c" beforeDir="false" afterPath="$PROJECT_DIR$/IU9/Informatics/C/labs/lab9.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,112 +120,33 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/bubblesort.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/csort.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/hsort.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/power2.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/shellsort.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework2/superstr.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Dictionary.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Dictionary.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/List.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/List.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Queue.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Queue.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Set.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Set.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Algotitms and data structures/C++/homework3/Structures/Stack.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab11.c" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab12.c" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab14.c" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Informatics/C/labs/lab9.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/bubblesort.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/csort.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/hsort.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/power2.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/shellsort.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework2/superstr.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/BinarySearchTree.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Dictionary.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Dictionary.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/ExpressionEvaluation.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/List.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/List.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Queue.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Queue.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Set.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Set.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Stack.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Algotitms and data structures/C++/homework3/Structures/Stack.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Informatics/C/allfunc.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Informatics/C/exam.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Informatics/C/labs/lab11.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Informatics/C/labs/lab12.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Informatics/C/labs/lab13.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Informatics/C/labs/lab14.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IU9/Informatics/C/labs/lab9.c" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -177,71 +163,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.BinarySearchTree.cpp.executor": "Run",
-    "C/C++ File.Dictionary.cpp.executor": "Run",
-    "C/C++ File.ExpressionEvaluation.cpp.executor": "Run",
-    "C/C++ File.List.cpp.executor": "Run",
-    "C/C++ File.Queue.cpp (1).executor": "Run",
-    "C/C++ File.Queue.cpp.executor": "Run",
-    "C/C++ File.Set.cpp.executor": "Run",
-    "C/C++ File.Stack.cpp (1).executor": "Run",
-    "C/C++ File.Stack.cpp.executor": "Run",
-    "C/C++ File.bubblesort.cpp.executor": "Run",
-    "C/C++ File.concat.c.executor": "Run",
-    "C/C++ File.csort.cpp.executor": "Run",
-    "C/C++ File.fibstr.c.executor": "Run",
-    "C/C++ File.forAll.cpp.executor": "Run",
-    "C/C++ File.frame.c.executor": "Run",
-    "C/C++ File.hsort.cpp.executor": "Run",
-    "C/C++ File.lab10.c.executor": "Run",
-    "C/C++ File.lab11.c.executor": "Run",
-    "C/C++ File.lab12.c.executor": "Run",
-    "C/C++ File.lab13.c.executor": "Run",
-    "C/C++ File.lab14.c.executor": "Run",
-    "C/C++ File.lab15.c.executor": "Run",
-    "C/C++ File.lab16.c.executor": "Run",
-    "C/C++ File.lab9.c.executor": "Run",
-    "C/C++ File.maxarray.c.executor": "Run",
-    "C/C++ File.polynom.c.executor": "Run",
-    "C/C++ File.power2.cpp.executor": "Run",
-    "C/C++ File.saddlepoint.c.executor": "Run",
-    "C/C++ File.shellsort.cpp.executor": "Run",
-    "C/C++ File.strdiff.c.executor": "Run",
-    "C/C++ File.superstr.cpp.executor": "Run",
-    "C/C++ File.wcount.c.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Aleksandr/CLionProjects/BMSTU",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "CMakeSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.BinarySearchTree.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Dictionary.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ExpressionEvaluation.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.List.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Queue.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Queue.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Set.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Stack.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Stack.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.bubblesort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.concat.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.csort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.exam.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.fibstr.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.forAll.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.frame.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.hsort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.lab10.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.lab11.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.lab12.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.lab13.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.lab14.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.lab15.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.lab16.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.lab9.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.maxarray.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.polynom.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.power2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.saddlepoint.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.shellsort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.strdiff.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.superstr.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.wcount.c.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aleksandr/CLionProjects/BMSTU&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\IU9" />
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Algotitms and data structures\C++\homework3" />
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Algotitms and data structures\C++\homework2\Structures" />
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Informatics\C" />
       <recent name="C:\Users\Aleksandr\CLionProjects\BMSTU\Informatics" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.lab16.c">
-    <configuration name="forAll.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="forAll.cpp" CONFIG_NAME="forAll.cpp">
-      <option name="sourceFile" value="Algotitms and data structures\C++\forAll.cpp" />
+  <component name="RunManager" selected="C/C++ File.exam.c">
+    <configuration name="exam.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BMSTU" TARGET_NAME="exam.c" CONFIG_NAME="exam.c">
+      <option name="sourceFile" value="Informatics\C\exam.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -271,7 +259,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.forAll.cpp" />
+      <item itemvalue="C/C++ File.exam.c" />
       <item itemvalue="C/C++ File.lab13.c" />
       <item itemvalue="C/C++ File.lab14.c" />
       <item itemvalue="C/C++ File.lab15.c" />
@@ -279,11 +267,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.exam.c" />
         <item itemvalue="C/C++ File.lab16.c" />
         <item itemvalue="C/C++ File.lab15.c" />
         <item itemvalue="C/C++ File.lab14.c" />
         <item itemvalue="C/C++ File.lab13.c" />
-        <item itemvalue="C/C++ File.forAll.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +297,10 @@
       <workItem from="1763897280784" duration="88971000" />
       <workItem from="1764686124502" duration="553000" />
       <workItem from="1764758186459" duration="9537000" />
-      <workItem from="1764842120949" duration="11641000" />
+      <workItem from="1764842120949" duration="11715000" />
+      <workItem from="1768390631510" duration="2658000" />
+      <workItem from="1768546864674" duration="4481000" />
+      <workItem from="1771067500970" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="saddlepoint">
       <option name="closed" value="true" />
@@ -535,14 +526,21 @@
       <option name="project" value="LOCAL" />
       <updated>1765142794847</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="lab15 and lab16 small remake">
+      <option name="closed" value="true" />
+      <created>1765183666323</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1765183666323</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="saddlepoint" />
     <MESSAGE value="to18" />
     <MESSAGE value="concat" />
     <MESSAGE value="some labs added" />
@@ -567,7 +565,8 @@
     <MESSAGE value="homework 2 update" />
     <MESSAGE value="some structures" />
     <MESSAGE value="lab13" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab13" />
+    <MESSAGE value="lab15 and lab16 small remake" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab15 and lab16 small remake" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
